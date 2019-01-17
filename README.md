@@ -36,6 +36,21 @@
 * [Particles.js](https://www.npmjs.com/package/particlesjs)
 * [Robots](https://robohash.org/)
 
+## JavaScript Style Guides
+
+• [Air BnB](https://github.com/airbnb/javascript)
+* [Google](https://google.github.io/styleguide/jsguide.html)
+
+## JavaScript Beginner References
+* [What is JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+* [JS Handbook](https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c)
+* [JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/)
+* [JS Tutorial](http://javascript.info/)
+
+
+
+
+
 
 
 
