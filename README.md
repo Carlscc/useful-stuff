@@ -2,5 +2,5 @@
 
 ## Git / Github
 * [Git Cheatsheet](git.md)
-* [Github Tutorial] (https://www.youtube.com/watch?v=3RjQznt-8kE)
+* [Github Tutorial](https://www.youtube.com/watch?v=3RjQznt-8kE)
 
