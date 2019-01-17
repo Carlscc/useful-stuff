@@ -11,7 +11,7 @@
 
 ## Colours
 * [Picular](https://picular.co/)
-• [Paletton](http://www.paletton.com)
+* [Paletton](http://www.paletton.com)
 
 
 ## Free Images
@@ -20,7 +20,7 @@
 * [Tookapic](https://tookapic.com/images)
 
 ## Free Icons
-• [Font Awesome](https://fontawesome.com/)
+* [Font Awesome](https://fontawesome.com/)
 * [Typicon](https://www.s-ings.com/typicons/)
 
 ## Videos
