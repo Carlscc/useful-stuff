@@ -38,7 +38,7 @@
 
 ## JavaScript Style Guides
 
-• [Air BnB](https://github.com/airbnb/javascript)
+* [Air BnB](https://github.com/airbnb/javascript)
 * [Google](https://google.github.io/styleguide/jsguide.html)
 
 ## JavaScript Beginner References
