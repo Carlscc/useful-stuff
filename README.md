@@ -1,4 +1,4 @@
-# Central collection of cheat sheets, guides, references and resources.
+# Central repo of cheat sheets, references and resources.
 
 ## Git / Github
 * [Git Cheatsheet](git.md)
