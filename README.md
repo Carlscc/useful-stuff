@@ -12,6 +12,7 @@
 ## Colours
 * [Picular](https://picular.co/)
 * [Paletton](http://www.paletton.com)
+* [ColorPick](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg/related?hl=en)
 
 
 ## Free Images
@@ -22,6 +23,7 @@
 ## Free Icons
 * [Font Awesome](https://fontawesome.com/)
 * [Typicon](https://www.s-ings.com/typicons/)
+* [Iconic](Iconic.com)
 
 ## Videos
 * [Coverr](https://coverr.co/tags/aerial)
@@ -46,6 +48,21 @@
 * [JS Handbook](https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c)
 * [JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/)
 * [JS Tutorial](http://javascript.info/)
+
+## APIs
+* [API list](https://apilist.fun)
+* [Speech-to-text](https://www.ibm.com/watson/services/speech-to-text/)
+
+## Practice Projects / Challenges
+* [Chingu](https://chingu.io/)
+* [Code Wars](https://www.codewars.com/)
+* [Coderbyte](https://coderbyte.com/)
+* [Codelabs](https://codelabs.developers.google.com/)
+
+
+
+
+
 
 
 
