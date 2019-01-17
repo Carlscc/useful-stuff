@@ -27,13 +27,15 @@
 * [Coverr](https://coverr.co/tags/aerial)
 
 ## Performance Improvement
-* [Broswer Support](https://caniuse.com/)
+* [Browser Support](https://caniuse.com/)
 * [Compress Images](https://compressjpeg.com/)
 
 ## Art / Animation
 * [Anime.js](https://animejs.com/)
 * [Three.js](https://threejs.org/)
 * [Particles.js](https://www.npmjs.com/package/particlesjs)
+
+
 
 
 
