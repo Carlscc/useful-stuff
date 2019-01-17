@@ -6,7 +6,7 @@
 
 ## CSS
 * [Tachyons](https://tachyons.io/)
-* [Boostrap](https://getbootstrap.com/)
+* [Bootstrap](https://getbootstrap.com/)
 * [CSS Tricks](https://css-tricks.com)
 
 ## Colours
