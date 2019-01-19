@@ -48,7 +48,7 @@
 * [JS Handbook](https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c)
 * [JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/)
 * [JS Tutorial](http://javascript.info/)
-* [You Don't Know JS (book series)(https://github.com/getify/You-Dont-Know-JS)
+* [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
 
 ## APIs
 * [API list](https://apilist.fun)
