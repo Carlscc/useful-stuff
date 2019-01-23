@@ -13,6 +13,7 @@
 * [Picular](https://picular.co/)
 * [Paletton](http://www.paletton.com)
 * [ColorPick](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg/related?hl=en)
+* [LOL Colors](https://www.webdesignrankings.com/resources/lolcolors/)
 
 
 ## Free Images
