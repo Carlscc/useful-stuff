@@ -6,6 +6,7 @@
 
 ## Basic Terminal Commands
 * [UNIX commands](https://www.dummies.com/computers/macs/mac-operating-systems/how-to-use-basic-unix-commands-to-work-in-terminal-on-your-mac/)
+* [Intro to the OS X Command Line](https://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)
 
 ## CSS
 * [Tachyons](https://tachyons.io/)
