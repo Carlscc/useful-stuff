@@ -4,6 +4,9 @@
 * [Git Cheatsheet](git.md)
 * [Github Tutorial](https://www.youtube.com/watch?v=3RjQznt-8kE)
 
+## Basic Terminal Commands
+* [Unix commands](https://www.dummies.com/computers/macs/mac-operating-systems/how-to-use-basic-unix-commands-to-work-in-terminal-on-your-mac/)
+
 ## CSS
 * [Tachyons](https://tachyons.io/)
 * [Bootstrap](https://getbootstrap.com/)
