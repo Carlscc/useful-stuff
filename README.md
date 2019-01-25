@@ -55,9 +55,21 @@
 * [JS Tutorial](http://javascript.info/)
 * [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
 
+## Homebrew Guide
+
+* [Homebrew Commands](https://docs.brew.sh/Installation)
+
+
 ## APIs
 * [API list](https://apilist.fun)
 * [Speech-to-text](https://www.ibm.com/watson/services/speech-to-text/)
+
+## PostgreSQL GUIs
+* [GUI list](https://postgresapp.com/documentation/gui-tools.html)
+
+## SQL Commands Exercises
+* [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)
+* [Codecademy](https://www.codecademy.com/learn/learn-sql)
 
 ## Practice Projects / Challenges
 * [Chingu](https://chingu.io/)
