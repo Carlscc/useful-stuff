@@ -42,6 +42,7 @@
 * [Three.js](https://threejs.org/)
 * [Particles.js](https://www.npmjs.com/package/particlesjs)
 * [Robots](https://robohash.org/)
+* [React-tilt](https://www.npmjs.com/package/react-tilt)
 
 ## JavaScript Style Guides
 
