@@ -4,6 +4,7 @@
 * [Git Cheatsheet](git.md)
 * [Github Tutorial](https://www.youtube.com/watch?v=3RjQznt-8kE)
 * [Reverting commits](http://christoph.ruegg.name/blog/git-howto-revert-a-commit-already-pushed-to-a-remote-reposit.html)
+* [Common Git problems and solutions](https://github.com/brianamarie/10-git-problems)
 
 ## Basic Terminal Commands
 * [UNIX commands](https://www.dummies.com/computers/macs/mac-operating-systems/how-to-use-basic-unix-commands-to-work-in-terminal-on-your-mac/)
