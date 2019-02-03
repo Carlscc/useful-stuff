@@ -40,12 +40,13 @@
 * [Browser Support](https://caniuse.com/)
 * [Compress Images](https://compressjpeg.com/)
 
-## Art / Animation
+## Design / Animation
 * [Anime.js](https://animejs.com/)
 * [Three.js](https://threejs.org/)
 * [Particles.js](https://www.npmjs.com/package/particlesjs)
 * [Robots](https://robohash.org/)
 * [React-tilt](https://www.npmjs.com/package/react-tilt)
+* [Free Design Resources](https://interfacer.xyz/)
 
 ## JavaScript Style Guides
 
