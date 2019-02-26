@@ -47,7 +47,7 @@
 * [Robots](https://robohash.org/)
 * [React-tilt](https://www.npmjs.com/package/react-tilt)
 * [Free Design Resources](https://interfacer.xyz/)
-* [D3.js intro] (https://medium.freecodecamp.org/learn-d3-js-in-5-minutes-c5ec29fb0725)
+* [D3.js intro](https://medium.freecodecamp.org/learn-d3-js-in-5-minutes-c5ec29fb0725)
 
 ## JavaScript Style Guides
 
