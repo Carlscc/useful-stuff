@@ -7,7 +7,7 @@
 * [Common Git problems and solutions](https://github.com/brianamarie/10-git-problems)
 
 ## Basic Terminal Commands
-* [UNIX commands](https://www.dummies.com/computers/macs/mac-operating-systems/how-to-use-basic-unix-commands-to-work-in-terminal-on-your-mac/)
+* [UNIX commands](https://www.tjhsst.edu/~dhyatt/superap/unixcmd.html)
 * [Intro to the OS X Command Line](https://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)
 
 ## CSS
