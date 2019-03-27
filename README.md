@@ -1,6 +1,7 @@
 # Central repo of cheat sheets, references and resources.
 
 ## Git / Github
+* [Git - simple guide](http://rogerdudler.github.io/git-guide/)
 * [Git Cheatsheet](git.md)
 * [Github Tutorial](https://www.youtube.com/watch?v=3RjQznt-8kE)
 * [Reverting commits](http://christoph.ruegg.name/blog/git-howto-revert-a-commit-already-pushed-to-a-remote-reposit.html)
