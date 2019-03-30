@@ -2,6 +2,7 @@
 
 ## Git / Github
 * [Git - simple guide](http://rogerdudler.github.io/git-guide/)
+* [10 Git commands you should know](https://towardsdatascience.com/10-git-commands-you-should-know-df54bea1595c)
 * [Learn Git Branching](https://learngitbranching.js.org/)
 * [Git Cheatsheet](git.md)
 * [Github Tutorial](https://www.youtube.com/watch?v=3RjQznt-8kE)
