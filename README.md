@@ -65,6 +65,10 @@
 * [JS Tutorial](http://javascript.info/)
 * [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
 
+## Python / Django Beginner References
+
+* [Django Girls - Beginners Tutorial](https://tutorial.djangogirls.org/en/)
+
 ## Homebrew Guide
 
 * [Homebrew Commands](https://docs.brew.sh/Installation)
