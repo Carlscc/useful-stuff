@@ -8,6 +8,7 @@
 * [Github Tutorial](https://www.youtube.com/watch?v=3RjQznt-8kE)
 * [Reverting commits](http://christoph.ruegg.name/blog/git-howto-revert-a-commit-already-pushed-to-a-remote-reposit.html)
 * [Common Git problems and solutions](https://github.com/brianamarie/10-git-problems)
+* [Git Stash](https://medium.freecodecamp.org/useful-tricks-you-might-not-know-about-git-stash-e8a9490f0a1a)
 
 ## Basic Terminal Commands
 * [UNIX commands](https://www.tjhsst.edu/~dhyatt/superap/unixcmd.html)
