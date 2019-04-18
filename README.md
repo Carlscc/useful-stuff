@@ -72,6 +72,7 @@
 
 * [Django Girls - Beginners Tutorial](https://tutorial.djangogirls.org/en/)
 * [Python Requests](http://docs.python-requests.org/en/master/)
+* [lxml tree](https://lxml.de/tutorial.html)
 
 ## Homebrew Guide
 
