@@ -71,6 +71,7 @@
 ## Python / Django Beginner References
 
 * [Django Girls - Beginners Tutorial](https://tutorial.djangogirls.org/en/)
+* [Python Requests](http://docs.python-requests.org/en/master/)
 
 ## Homebrew Guide
 
