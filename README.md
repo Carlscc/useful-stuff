@@ -74,7 +74,7 @@
 * [Django Girls - Beginners Tutorial](https://tutorial.djangogirls.org/en/)
 * [Python Requests](http://docs.python-requests.org/en/master/)
 * [lxml tree](https://lxml.de/tutorial.html)
-* [Self varibale](https://pythontips.com/2013/08/07/the-self-variable-in-python-explained/)
+* [Self variable](https://pythontips.com/2013/08/07/the-self-variable-in-python-explained/)
 
 ## Homebrew Guide
 
