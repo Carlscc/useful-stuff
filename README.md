@@ -69,6 +69,11 @@
 * [JS Tutorial](http://javascript.info/)
 * [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
 
+## React
+
+* [React Cheatsheet](https://ihatetomatoes.net/wp-content/uploads/2017/01/react-cheat-sheet-v1.pdf)
+
+
 ## Python / Django Beginner References
 
 * [Django Girls - Beginners Tutorial](https://tutorial.djangogirls.org/en/)
