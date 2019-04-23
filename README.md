@@ -36,6 +36,7 @@
 * [Font Awesome](https://fontawesome.com/)
 * [Typicon](https://www.s-ings.com/typicons/)
 * [Iconic](Iconic.com)
+* [Streamline Icons](https://streamlineicons.com/)
 
 ## Videos
 * [Coverr](https://coverr.co/tags/aerial)
