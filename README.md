@@ -19,7 +19,8 @@
 * [Bootstrap](https://getbootstrap.com/)
 * [CSS Tricks](https://css-tricks.com)
 * [CSS Grid Cheatsheet](http://grid.malven.co/)
-* [Flexboc Cheatsheet](https://yoksel.github.io/flex-cheatsheet/)
+* [Flexbox Cheatsheet](https://yoksel.github.io/flex-cheatsheet/)
+* [Flexbox - spacing](https://www.sketchingwithcss.com/samplechapter/cheatsheet.html#wraprow)
 * [CSS Guide 2019](https://medium.freecodecamp.org/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11)
 
 ## Colours
