@@ -23,6 +23,7 @@
 * [Flexbox - spacing](https://www.sketchingwithcss.com/samplechapter/cheatsheet.html#wraprow)
 * [CSS Guide 2019](https://medium.freecodecamp.org/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11)
 * [CSS Style Precedence](http://vanseodesign.com/css/css-specificity-inheritance-cascaade/)
+* [Sass for beginners](https://dev.to/akanksha_9560/beginners-guide-to-sass-8lh)
 
 ## Colours
 * [Picular](https://picular.co/)
