@@ -61,6 +61,7 @@
 * [Interfaces Pro](https://interfaces.pro/)
 * [UI Inspiration](https://uimovement.com/all-designs/)
 * [Open source illustrations](https://undraw.co/)
+* [Creating a Living Style Guide](https://www.bitovi.com/blog/planning-your-living-style-guide)
 
 ## JavaScript Style Guides
 
