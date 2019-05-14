@@ -12,7 +12,7 @@
 
 ## Basic Terminal Commands
 * [UNIX commands](https://www.tjhsst.edu/~dhyatt/superap/unixcmd.html)
-* [Intro to the OS X Command Line](https://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)
+* [Intro to the OSX Command Line](https://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)
 
 ## CSS
 * [Tachyons](https://tachyons.io/)
