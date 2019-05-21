@@ -86,6 +86,7 @@
 * [Python Requests](http://docs.python-requests.org/en/master/)
 * [lxml tree](https://lxml.de/tutorial.html)
 * [Self variable](https://pythontips.com/2013/08/07/the-self-variable-in-python-explained/)
+* [Python for beginners](https://www.guru99.com/python-tutorials.html)
 
 ## Homebrew Guide
 
