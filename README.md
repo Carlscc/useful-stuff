@@ -94,6 +94,7 @@
 ## AI
 
 * [Google Datasets](https://ai.google/tools/datasets/)
+* [School of AI](https://www.theschool.ai/)
 
 ## Homebrew Guide
 
