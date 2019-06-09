@@ -91,6 +91,10 @@
 * [Self variable](https://pythontips.com/2013/08/07/the-self-variable-in-python-explained/)
 * [Python for beginners](https://www.guru99.com/python-tutorials.html)
 
+AI
+
+* [Google Datasets](https://ai.google/tools/datasets/)
+
 ## Homebrew Guide
 
 * [Homebrew Commands](https://docs.brew.sh/Installation)
