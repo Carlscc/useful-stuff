@@ -76,7 +76,7 @@
 * [JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/)
 * [JS Tutorial](http://javascript.info/)
 * [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
-* [Common DOM methods(https://christianheilmann.com/stuff/JavaScript-DOM-Cheatsheet.pdf)
+* [Common DOM methods](https://christianheilmann.com/stuff/JavaScript-DOM-Cheatsheet.pdf)
 
 ## React
 
