@@ -91,6 +91,7 @@
 * [lxml tree](https://lxml.de/tutorial.html)
 * [Self variable](https://pythontips.com/2013/08/07/the-self-variable-in-python-explained/)
 * [Python for beginners](https://www.guru99.com/python-tutorials.html)
+* [Classes and Methods](https://www.hackerearth.com/practice/python/object-oriented-programming/classes-and-objects-i/tutorial)
 
 ## AI
 
