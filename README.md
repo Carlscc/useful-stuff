@@ -26,6 +26,8 @@
 * [CSS Style Precedence](http://vanseodesign.com/css/css-specificity-inheritance-cascaade/)
 * [Sass for beginners](https://dev.to/akanksha_9560/beginners-guide-to-sass-8lh)
 * [CSS Animation examples](https://www.mockplus.com/blog/post/css-animation-examples)
+* [CSS Animation for beginners](https://thoughtbot.com/blog/css-animation-for-beginners)
+
 
 ## Colours
 * [Picular](https://picular.co/)
