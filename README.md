@@ -27,6 +27,8 @@
 * [Sass for beginners](https://dev.to/akanksha_9560/beginners-guide-to-sass-8lh)
 * [CSS Animation examples](https://www.mockplus.com/blog/post/css-animation-examples)
 * [CSS Animation for beginners](https://thoughtbot.com/blog/css-animation-for-beginners)
+* [CSS Animation examples](https://www.creativebloq.com/inspiration/css-animation-examples)
+
 
 
 ## Colours
