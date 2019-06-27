@@ -28,6 +28,7 @@
 * [CSS Animation examples](https://www.mockplus.com/blog/post/css-animation-examples)
 * [CSS Animation for beginners](https://thoughtbot.com/blog/css-animation-for-beginners)
 * [CSS Animation examples](https://www.creativebloq.com/inspiration/css-animation-examples)
+* [Cubic Bezier Curve calculator](https://cubic-bezier.com/)
 
 
 
