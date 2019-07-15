@@ -71,6 +71,9 @@
 * [Open source illustrations](https://undraw.co/)
 * [Creating a Living Style Guide](https://www.bitovi.com/blog/planning-your-living-style-guide)
 
+## Data Visulisation
+* [Color Brewer - Color advice for Cartography](htpp://colorbrewer2.org)
+
 ## JavaScript Style Guides
 
 * [Air BnB](https://github.com/airbnb/javascript)
@@ -130,21 +133,4 @@
 * [Coderbyte](https://coderbyte.com/)
 * [Codelabs](https://codelabs.developers.google.com/)
 * [Exercism](https://exercism.io/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
