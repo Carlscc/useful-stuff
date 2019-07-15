@@ -74,6 +74,7 @@
 ## Data Visulisation
 * [Color Brewer - Color advice for Cartography](http://colorbrewer2.org)
 * [Accessibility Colors Checker](https://www.w3.org/TR/AERT/#color-contrast)
+* [Intro to Graphical Perceptions in practice](https://flowingdata.com/2010/03/20/graphical-perception-learn-the-fundamentals-first/)
 
 ## JavaScript Style Guides
 
