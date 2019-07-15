@@ -72,7 +72,7 @@
 * [Creating a Living Style Guide](https://www.bitovi.com/blog/planning-your-living-style-guide)
 
 ## Data Visulisation
-* [Color Brewer - Color advice for Cartography](htpp://colorbrewer2.org)
+* [Color Brewer - Color advice for Cartography](http://colorbrewer2.org)
 
 ## JavaScript Style Guides
 
