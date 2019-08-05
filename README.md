@@ -131,6 +131,9 @@
 * [Docker for beginners](https://docker-curriculum.com/)
 * [Digital Ocean: Docker Tutorals](https://www.digitalocean.com/community/tags/docker?type=tutorials)
 
+## SSH
+* [Setting up SSH](https://www.makeuseof.com/tag/beginners-guide-setting-ssh-linux-testing-setup/)
+
 ## Practice Projects / Challenges
 * [Chingu](https://chingu.io/)
 * [Code Wars](https://www.codewars.com/)
