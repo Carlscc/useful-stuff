@@ -132,7 +132,7 @@
 * [Digital Ocean: Docker Tutorals](https://www.digitalocean.com/community/tags/docker?type=tutorials)
 
 ## SSH
-* [Setting up SSH](https://www.makeuseof.com/tag/beginners-guide-setting-ssh-linux-testing-setup/)
+* [Setting up SSH on Linux](https://www.makeuseof.com/tag/beginners-guide-setting-ssh-linux-testing-setup/)
 
 ## Practice Projects / Challenges
 * [Chingu](https://chingu.io/)
