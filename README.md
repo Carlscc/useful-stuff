@@ -31,7 +31,6 @@
 * [Cubic Bezier Curve calculator](https://cubic-bezier.com/)
 * [CSS animation](https://codeburst.io/a-guide-to-css-animation-part-1-8777f5beb1f8)
 * [Special character entity converter](http://www.evotech.net/articles/testjsentities.html)
-* [Font pairings](https://fontpair.co/)
 
 
 
@@ -40,6 +39,7 @@
 * [Paletton](http://www.paletton.com)
 * [ColorPick](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg/related?hl=en)
 * [LOL Colors](https://www.webdesignrankings.com/resources/lolcolors/)
+* [Coloors Color Palette](https://coolors.co/)
 
 
 ## Free Images
@@ -71,6 +71,7 @@
 * [Interfaces Pro](https://interfaces.pro/)
 * [UI Inspiration](https://uimovement.com/all-designs/)
 * [Open source illustrations](https://undraw.co/)
+* [Font pairings](https://fontpair.co/)
 * [Creating a Living Style Guide](https://www.bitovi.com/blog/planning-your-living-style-guide)
 
 ## Data Visulisation
