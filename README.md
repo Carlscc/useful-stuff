@@ -30,6 +30,9 @@
 * [CSS Animation examples](https://www.creativebloq.com/inspiration/css-animation-examples)
 * [Cubic Bezier Curve calculator](https://cubic-bezier.com/)
 * [CSS animation](https://codeburst.io/a-guide-to-css-animation-part-1-8777f5beb1f8)
+
+## HTML Special Characters
+* [Reference for HTML Symbols, Entities and ASCII Character Codes](https://www.toptal.com/designers/htmlarrows/)
 * [Special character entity converter](http://www.evotech.net/articles/testjsentities.html)
 
 
@@ -74,7 +77,7 @@
 * [Font pairings](https://fontpair.co/)
 * [Creating a Living Style Guide](https://www.bitovi.com/blog/planning-your-living-style-guide)
 
-## Data Visulisation
+## Data Visualisation
 * [Color Brewer - Color advice for Cartography](http://colorbrewer2.org)
 * [Accessibility Colors Checker](https://www.w3.org/TR/AERT/#color-contrast)
 * [Intro to Graphical Perceptions in practice](https://flowingdata.com/2010/03/20/graphical-perception-learn-the-fundamentals-first/)
@@ -144,4 +147,6 @@
 * [Coderbyte](https://coderbyte.com/)
 * [Codelabs](https://codelabs.developers.google.com/)
 * [Exercism](https://exercism.io/)
+
+
 
