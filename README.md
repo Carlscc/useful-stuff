@@ -118,6 +118,7 @@
 * [Google Datasets](https://ai.google/tools/datasets/)
 * [School of AI](https://www.theschool.ai/)
 
+
 ## Homebrew Guide
 
 * [Homebrew Commands](https://docs.brew.sh/Installation)
@@ -126,6 +127,7 @@
 ## APIs
 * [API list](https://apilist.fun)
 * [Speech-to-text](https://www.ibm.com/watson/services/speech-to-text/)
+* [Nasa Open APIs](https://api.nasa.gov/index.html)
 
 ## PostgreSQL GUIs
 * [GUI list](https://postgresapp.com/documentation/gui-tools.html)
