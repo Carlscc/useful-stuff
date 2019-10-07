@@ -112,6 +112,7 @@
 * [Classes and Methods](https://www.hackerearth.com/practice/python/object-oriented-programming/classes-and-objects-i/tutorial)
 * [Regular Expressions Tutorial](https://www.regular-expressions.info/tutorial.html)
 * [Regular Expressions Testing](https://regex101.com/)
+* [ZTM Python Cheatsheet](https://nicedoc.io/aneagoie/ztm-python-cheat-sheet)
 
 ## AI
 
