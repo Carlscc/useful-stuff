@@ -113,6 +113,7 @@
 * [Regular Expressions Tutorial](https://www.regular-expressions.info/tutorial.html)
 * [Regular Expressions Testing](https://regex101.com/)
 * [ZTM Python Cheatsheet](https://nicedoc.io/aneagoie/ztm-python-cheat-sheet)
+* [Python programming exercises](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended)
 
 ## AI
 
