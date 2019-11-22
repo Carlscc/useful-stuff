@@ -31,9 +31,10 @@
 * [Cubic Bezier Curve calculator](https://cubic-bezier.com/)
 * [CSS animation](https://codeburst.io/a-guide-to-css-animation-part-1-8777f5beb1f8)
 
-## HTML Special Characters
+## HTML 
 * [Reference for HTML Symbols, Entities and ASCII Character Codes](https://www.toptal.com/designers/htmlarrows/)
 * [Special character entity converter](http://www.evotech.net/articles/testjsentities.html)
+* [HTML closing tags checker](https://www.aliciaramirez.com/closing-tags-checker/)
 
 
 
