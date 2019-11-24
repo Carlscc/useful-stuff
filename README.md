@@ -116,10 +116,12 @@
 * [ZTM Python Cheatsheet](https://nicedoc.io/aneagoie/ztm-python-cheat-sheet)
 * [Python programming exercises](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended)
 
-## AI
+## Machine Learning / Data Science
 
 * [Google Datasets](https://ai.google/tools/datasets/)
 * [School of AI](https://www.theschool.ai/)
+* [Pandas Cheatsheet](https://elitedatascience.com/python-cheat-sheet)
+
 
 
 ## Homebrew Guide
