@@ -1,5 +1,8 @@
 # Central repo of cheat sheets, references and resources.
 
+## Problem Solving
+* [How to think like a programmer - article](https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/)
+
 ## Git / Github
 * [Git - simple guide](http://rogerdudler.github.io/git-guide/)
 * [10 Git commands you should know](https://towardsdatascience.com/10-git-commands-you-should-know-df54bea1595c)
