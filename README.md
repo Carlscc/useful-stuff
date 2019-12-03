@@ -38,6 +38,7 @@
 * [Reference for HTML Symbols, Entities and ASCII Character Codes](https://www.toptal.com/designers/htmlarrows/)
 * [Special character entity converter](http://www.evotech.net/articles/testjsentities.html)
 * [HTML closing tags checker](https://www.aliciaramirez.com/closing-tags-checker/)
+* [What is the DOM](https://css-tricks.com/dom/)
 
 
 
