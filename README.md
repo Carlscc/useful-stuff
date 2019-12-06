@@ -137,6 +137,7 @@
 * [API list](https://apilist.fun)
 * [Speech-to-text](https://www.ibm.com/watson/services/speech-to-text/)
 * [Nasa Open APIs](https://api.nasa.gov/index.html)
+* [Fake data for testing](https://jsonplaceholder.typicode.com/)
 
 ## PostgreSQL GUIs
 * [GUI list](https://postgresapp.com/documentation/gui-tools.html)
