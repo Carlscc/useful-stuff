@@ -82,6 +82,7 @@
 * [Open source illustrations](https://undraw.co/)
 * [Font pairings](https://fontpair.co/)
 * [Creating a Living Style Guide](https://www.bitovi.com/blog/planning-your-living-style-guide)
+* [Free HTML templates](https://cruip.com/)
 
 ## Data Visualisation
 * [Color Brewer - Color advice for Cartography](http://colorbrewer2.org)
