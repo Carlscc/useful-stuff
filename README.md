@@ -61,6 +61,7 @@
 * [Iconic](Iconic.com)
 * [Streamline Icons](https://streamlineicons.com/)
 * [Free ICO icons](https://icon-icons.com/)
+* [Free logo maker](https://hatchful.shopify.com/)
 
 ## Videos
 * [Coverr](https://coverr.co/tags/aerial)
