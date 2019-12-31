@@ -123,6 +123,7 @@
 * [Regular Expressions Testing](https://regex101.com/)
 * [ZTM Python Cheatsheet](https://nicedoc.io/aneagoie/ztm-python-cheat-sheet)
 * [Python programming exercises](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended)
+* [PEP 8 Style Guide](https://www.python.org/dev/peps/pep-0008/)
 
 ## Machine Learning / Data Science
 
