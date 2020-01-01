@@ -125,6 +125,7 @@
 * [Python programming exercises](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended)
 * [PEP 8 Style Guide](https://www.python.org/dev/peps/pep-0008/)
 * [Project Structure - Guide](https://docs.python-guide.org/writing/structure/)
+* [Writing Style](https://docs.python-guide.org/writing/style/)
 
 ## Machine Learning / Data Science
 
