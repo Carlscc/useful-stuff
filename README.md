@@ -126,6 +126,7 @@
 * [PEP 8 Style Guide](https://www.python.org/dev/peps/pep-0008/)
 * [Project Structure - Guide](https://docs.python-guide.org/writing/structure/)
 * [Writing Style](https://docs.python-guide.org/writing/style/)
+* [Web Scraping - Scrapy](https://www.scrapingbee.com/blog/web-scraping-with-scrapy/)
 
 ## Machine Learning / Data Science
 
