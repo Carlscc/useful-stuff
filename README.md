@@ -127,6 +127,7 @@
 * [Project Structure - Guide](https://docs.python-guide.org/writing/structure/)
 * [Writing Style](https://docs.python-guide.org/writing/style/)
 * [Web Scraping - Scrapy](https://www.scrapingbee.com/blog/web-scraping-with-scrapy/)
+* [Mini Projects for Python Beginners](https://knightlab.northwestern.edu/2014/06/05/five-mini-programming-projects-for-the-python-beginner/)
 
 ## Machine Learning / Data Science
 
