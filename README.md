@@ -131,6 +131,10 @@
 * [End to end Machine Learning Project](https://www.ahmedbesbes.com/blog/end-to-end-machine-learning/)
 * [Intermediate Python](http://book.pythontips.com/en/latest/index.html)
 
+## Java
+
+* [Eclipse Tutorial](https://courses.cs.washington.edu/courses/cse143/12wi/eclipse_tutorial/file_organization.shtml)
+
 ## Machine Learning / Data Science
 
 * [Google Datasets](https://ai.google/tools/datasets/)
