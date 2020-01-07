@@ -130,6 +130,7 @@
 * [Mini Projects for Python Beginners](https://knightlab.northwestern.edu/2014/06/05/five-mini-programming-projects-for-the-python-beginner/)
 * [End to end Machine Learning Project](https://www.ahmedbesbes.com/blog/end-to-end-machine-learning/)
 * [Intermediate Python](http://book.pythontips.com/en/latest/index.html)
+* [Obscure Python Tricks](https://martinheinz.dev/blog/1)
 
 ## Java
 
