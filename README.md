@@ -142,6 +142,7 @@
 * [School of AI](https://www.theschool.ai/)
 * [Pandas Cheatsheet](https://elitedatascience.com/python-cheat-sheet)
 * [KNN ALgorithm for Regression](https://www.analyticsvidhya.com/blog/2018/08/k-nearest-neighbor-introduction-regression-python/)
+* [The Future Computed](https://blogs.microsoft.com/blog/2018/01/17/future-computed-artificial-intelligence-role-society/)
 
 
 
