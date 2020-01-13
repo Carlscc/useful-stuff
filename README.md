@@ -3,6 +3,7 @@
 ## Problem Solving
 * [How to think like a programmer - article](https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/)
 * [10 Steps to Solving a Programming Problem](https://codeburst.io/10-steps-to-solving-a-programming-problem-8a32d1e96d74)
+* [Computational thinking](http://socialissues.cs.toronto.edu/index.html%3Fp=279.html)
 
 ## Git / Github
 * [Git - simple guide](http://rogerdudler.github.io/git-guide/)
