@@ -136,6 +136,7 @@
 ## Java
 
 * [Eclipse Tutorial](https://courses.cs.washington.edu/courses/cse143/12wi/eclipse_tutorial/file_organization.shtml)
+* [Null in Java](https://dev.to/dj_devjournal/understanding-null-in-java-4o31)
 
 ## Machine Learning / Data Science
 
