@@ -3,6 +3,7 @@
 ## Data Structures & Algorithms
 
 * [Hash table animation](https://www.cs.usfca.edu/~galles/visualization/OpenHash.html)
+* [Data Structures & Algorithms visiualisation](https://visualgo.net/en)
 
 ## Problem Solving
 * [How to think like a programmer - article](https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/)
