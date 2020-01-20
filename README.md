@@ -97,6 +97,7 @@
 * [Accessibility Colors Checker](https://www.w3.org/TR/AERT/#color-contrast)
 * [Intro to Graphical Perceptions in practice](https://flowingdata.com/2010/03/20/graphical-perception-learn-the-fundamentals-first/)
 * [Dimple - D3 Powered API for business analytics](http://dimplejs.org/)
+* [Using Red and Green](https://www.tableau.com/about/blog/2016/4/examining-data-viz-rules-dont-use-red-green-together-53463)
 
 ## JavaScript Style Guides
 
