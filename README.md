@@ -170,6 +170,10 @@
 * [Nasa Open APIs](https://api.nasa.gov/index.html)
 * [Fake data for testing](https://jsonplaceholder.typicode.com/)
 
+## Relational Databases
+
+* [PostgreSQL cheatsheet](https://www.postgresqltutorial.com/postgresql-cheat-sheet/)
+
 ## PostgreSQL GUIs
 * [GUI list](https://postgresapp.com/documentation/gui-tools.html)
 
@@ -190,6 +194,7 @@
 * [Coderbyte](https://coderbyte.com/)
 * [Codelabs](https://codelabs.developers.google.com/)
 * [Exercism](https://exercism.io/)
+* [Hacker Earth](https://www.hackerearth.com/)
 
 
 
