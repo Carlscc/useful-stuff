@@ -180,6 +180,7 @@
 ## SQL Commands Exercises
 * [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)
 * [Codecademy](https://www.codecademy.com/learn/learn-sql)
+* [SQL Fiddle](http://sqlfiddle.com/#!17/a114f/2)
 
 ## Docker
 * [Docker for beginners](https://docker-curriculum.com/)
