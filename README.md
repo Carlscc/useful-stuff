@@ -173,6 +173,7 @@
 ## Relational Databases
 
 * [PostgreSQL cheatsheet](https://www.postgresqltutorial.com/postgresql-cheat-sheet/)
+* [Seq scan](https://www.depesz.com/2013/04/27/explaining-the-unexplainable-part-2/#seq-scan)
 
 ## PostgreSQL GUIs
 * [GUI list](https://postgresapp.com/documentation/gui-tools.html)
