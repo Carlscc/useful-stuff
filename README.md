@@ -142,6 +142,7 @@
 * [Intermediate Python](http://book.pythontips.com/en/latest/index.html)
 * [Obscure Python Tricks](https://martinheinz.dev/blog/1)
 * [More Python Tricks!](https://github.com/satwikkansal/wtfpython/blob/master/README.md)
+* [CRUD example - Django, MySQL and Bootstrap](https://www.ahmedbouchefra.com/blog/django-3-tutorial-and-crud-example-with-mysql-and-bootstrap/)
 
 ## Java
 
