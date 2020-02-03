@@ -144,6 +144,7 @@
 * [More Python Tricks!](https://github.com/satwikkansal/wtfpython/blob/master/README.md)
 * [CRUD example - Django, MySQL and Bootstrap](https://www.ahmedbouchefra.com/blog/django-3-tutorial-and-crud-example-with-mysql-and-bootstrap/)
 * [Python Timers](https://realpython.com/python-timer/)
+* [Live Python Tutor](http://pythontutor.com/)
 
 ## Java
 
