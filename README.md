@@ -173,6 +173,9 @@
 * [Nasa Open APIs](https://api.nasa.gov/index.html)
 * [Fake data for testing](https://jsonplaceholder.typicode.com/)
 
+## Node.js
+* [Node.js beginner guide](https://stackabuse.com/learn-node-js-a-beginners-guide/)
+
 ## Relational Databases
 
 * [PostgreSQL cheatsheet](https://www.postgresqltutorial.com/postgresql-cheat-sheet/)
