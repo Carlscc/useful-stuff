@@ -145,6 +145,7 @@
 * [CRUD example - Django, MySQL and Bootstrap](https://www.ahmedbouchefra.com/blog/django-3-tutorial-and-crud-example-with-mysql-and-bootstrap/)
 * [Python Timers](https://realpython.com/python-timer/)
 * [Live Python Tutor](http://pythontutor.com/)
+* [Passing functions as arguments](https://treyhunner.com/2020/01/passing-functions-as-arguments/)
 
 ## Java
 
