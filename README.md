@@ -5,7 +5,7 @@
 * [Hash table animation](https://www.cs.usfca.edu/~galles/visualization/OpenHash.html)
 * [Data Structures & Algorithms visiualisation](https://visualgo.net/en)
 * [Big O Cheatsheet](https://www.bigocheatsheet.com/)
-* [Open Source Pastbin](https://glot.io/)
+* [Open Source Pastebin](https://glot.io/)
 
 ## Problem Solving
 * [How to think like a programmer - article](https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/)
