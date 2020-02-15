@@ -174,6 +174,7 @@
 * [Speech-to-text](https://www.ibm.com/watson/services/speech-to-text/)
 * [Nasa Open APIs](https://api.nasa.gov/index.html)
 * [Fake data for testing](https://jsonplaceholder.typicode.com/)
+* [APIs for beginners](https://www.freecodecamp.org/news/apis-for-beginners-full-course/)
 
 ## Node.js
 * [Node.js beginner guide](https://stackabuse.com/learn-node-js-a-beginners-guide/)
