@@ -176,6 +176,9 @@
 * [Fake data for testing](https://jsonplaceholder.typicode.com/)
 * [APIs for beginners](https://www.freecodecamp.org/news/apis-for-beginners-full-course/)
 
+## GraphQL
+* [Intro to GraphQL](https://www.freecodecamp.org/news/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf/)
+
 ## Node.js
 * [Node.js beginner guide](https://stackabuse.com/learn-node-js-a-beginners-guide/)
 
