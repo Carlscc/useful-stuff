@@ -178,6 +178,7 @@
 
 ## GraphQL
 * [Intro to GraphQL](https://www.freecodecamp.org/news/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf/)
+* [What is GraphQL?](https://medium.com/devgorilla/what-is-graphql-f0902a959e4)
 
 ## Node.js
 * [Node.js beginner guide](https://stackabuse.com/learn-node-js-a-beginners-guide/)
