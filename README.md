@@ -152,6 +152,7 @@
 * [Python Timers](https://realpython.com/python-timer/)
 * [Live Python Tutor](http://pythontutor.com/)
 * [Passing functions as arguments](https://treyhunner.com/2020/01/passing-functions-as-arguments/)
+* [Learn Python in one picture](http://coodict.github.io/python3-in-one-pic/)
 
 ## Java
 
