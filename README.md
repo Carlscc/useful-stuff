@@ -118,6 +118,7 @@
 * [Common DOM methods](https://christianheilmann.com/stuff/JavaScript-DOM-Cheatsheet.pdf)
 * [What is the DOM](https://css-tricks.com/dom/)
 * [AST demo](https://astexplorer.net/)
+* [JavaScript Loading Priorities](https://addyosmani.com/blog/script-priorities/)
 
 ## React
 
