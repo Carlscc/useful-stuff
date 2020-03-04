@@ -170,8 +170,6 @@
 * [The Future Computed](https://blogs.microsoft.com/blog/2018/01/17/future-computed-artificial-intelligence-role-society/)
 
 
-
-
 ## Homebrew Guide
 
 * [Homebrew Commands](https://docs.brew.sh/Installation)
@@ -218,6 +216,10 @@
 * [Codelabs](https://codelabs.developers.google.com/)
 * [Exercism](https://exercism.io/)
 * [Hacker Earth](https://www.hackerearth.com/)
+
+## Testing
+
+* [10 minute email for testing](https://10minutemail.com/)
 
 
 
