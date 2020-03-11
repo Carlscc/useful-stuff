@@ -123,6 +123,7 @@
 * [JavaScript in one pic](https://github.com/coodict/javascript-in-one-pic)
 * [JavaScript & jQuery cheatsheet](https://htmlcheatsheet.com/js/)
 * [Currying](https://javascript.info/currying-partials)
+* [JS array explorer](https://sdras.github.io/array-explorer/)
 
 ## React
 
