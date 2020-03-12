@@ -124,6 +124,7 @@
 * [JavaScript & jQuery cheatsheet](https://htmlcheatsheet.com/js/)
 * [Currying](https://javascript.info/currying-partials)
 * [JS array explorer](https://sdras.github.io/array-explorer/)
+* [JavaScript type coercion - equality table](https://dorey.github.io/JavaScript-Equality-Table/)
 
 ## React
 
