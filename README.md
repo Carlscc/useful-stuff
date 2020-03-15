@@ -67,6 +67,7 @@
 * [Unsplash](https://unsplash.com/)
 * [Pexels](https://www.pexels.com/)
 * [Tookapic](https://tookapic.com/images)
+* [Generative art - image placeholders](https://generative-placeholders.glitch.me/)
 
 ## Free Icons
 * [Font Awesome](https://fontawesome.com/)
