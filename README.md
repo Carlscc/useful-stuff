@@ -99,6 +99,7 @@
 * [Creating a Living Style Guide](https://www.bitovi.com/blog/planning-your-living-style-guide)
 * [Free HTML templates](https://cruip.com/)
 * [Free illustrations](https://lukaszadam.com/illustrations)
+* [Free and paid 80s Fonts](https://onextrapixel.com/35-free-paid-80s-fonts/)
 
 ## Data Visualisation
 * [Color Brewer - Color advice for Cartography](http://colorbrewer2.org)
