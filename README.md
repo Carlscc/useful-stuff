@@ -191,6 +191,10 @@
 
 * [Homebrew Commands](https://docs.brew.sh/Installation)
 
+## Chrome Extensions
+
+* [Passing Messages](https://stackoverflow.com/questions/31111721/pass-a-variable-from-content-script-to-popup/311124)
+
 
 ## APIs
 * [API list](https://apilist.fun)
