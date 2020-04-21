@@ -144,6 +144,7 @@
 * [Virtual DOM in React](https://hackernoon.com/virtual-dom-in-reactjs-43a3fdb1d130)
 * [React Native](https://www.youtube.com/playlist?list=PLhQjrBD2T382gdfveyad09Ierl_3Jh_wR)
 * [React UI Libraries](https://hackernoon.com/23-best-react-ui-component-libraries-and-frameworks-250a81b2ac42)
+* [Icon packs as styled components](https://styled-icons.js.org/)
 
 
 ## Python / Django Beginner References
