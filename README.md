@@ -211,6 +211,7 @@
 
 ## Node.js
 * [Node.js beginner guide](https://stackabuse.com/learn-node-js-a-beginners-guide/)
+* [Node best practices and beginner resources](https://github.com/goldbergyoni/nodebestpractices#readme)
 
 ## Relational Databases
 
