@@ -136,7 +136,7 @@
 * [Currying](https://javascript.info/currying-partials)
 * [JS array explorer](https://sdras.github.io/array-explorer/)
 * [JavaScript type coercion - equality table](https://dorey.github.io/JavaScript-Equality-Table/)
-* [JSON Beaitifier](https://jsonbeautifier.org/)
+* [JSON Beautifier](https://jsonbeautifier.org/)
 
 ## React
 
