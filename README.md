@@ -145,6 +145,7 @@
 * [React Native](https://www.youtube.com/playlist?list=PLhQjrBD2T382gdfveyad09Ierl_3Jh_wR)
 * [React UI Libraries](https://hackernoon.com/23-best-react-ui-component-libraries-and-frameworks-250a81b2ac42)
 * [Icon packs as styled components](https://styled-icons.js.org/)
+* [React visual metaphors](https://illustrated.dev/)
 
 
 ## Python / Django Beginner References
