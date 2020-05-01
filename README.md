@@ -245,6 +245,7 @@
 ## Testing
 
 * [10 minute email for testing](https://10minutemail.com/)
+* [Test website speed](https://imagespeedtest.piio.co/)
 
 
 
