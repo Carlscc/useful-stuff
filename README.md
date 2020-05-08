@@ -147,6 +147,10 @@
 * [Icon packs as styled components](https://styled-icons.js.org/)
 * [React visual metaphors](https://illustrated.dev/)
 
+## Next.js
+
+* [Next.js Handbook](https://www.freecodecamp.org/news/the-next-js-handbook/)
+
 
 ## Python / Django Beginner References
 
