@@ -115,6 +115,7 @@
 * [Dimple - D3 Powered API for business analytics](http://dimplejs.org/)
 * [Using Red and Green](https://www.tableau.com/about/blog/2016/4/examining-data-viz-rules-dont-use-red-green-together-53463)
 * [D3 tutorial](https://observablehq.com/@mitvis/introduction-to-d3)
+* [Interactive charts with D3.js](https://wattenberger.com/blog/d3-interactive-charts)
 
 ## JavaScript Style Guides
 
