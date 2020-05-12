@@ -61,6 +61,7 @@
 * [LOL Colors](https://www.webdesignrankings.com/resources/lolcolors/)
 * [Coloors Color Palette](https://coolors.co/)
 * [Comprehensive colors and fonts library](https://www.colorsandfonts.com/)
+* [Colours.lol](https://colors.lol/)
 
 
 ## Free Images
