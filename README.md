@@ -154,6 +154,7 @@
 ## Next.js
 
 * [Next.js Handbook](https://www.freecodecamp.org/news/the-next-js-handbook/)
+* [Getting started with Next.js](https://flaviocopes.com/nextjs/)
 
 
 ## Python / Django Beginner References
