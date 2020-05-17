@@ -142,6 +142,10 @@
 * [JavaScript type coercion - equality table](https://dorey.github.io/JavaScript-Equality-Table/)
 * [JSON Beautifier](https://jsonbeautifier.org/)
 
+## Advanced JavaScript
+
+* [ZTM Advanced JavaScript Cheatsheet](https://zerotomastery.io/courses/advanced-javascript/cheatsheet/#JavaScriptEngine)
+
 ## React
 
 * [React Cheatsheet](https://ihatetomatoes.net/wp-content/uploads/2017/01/react-cheat-sheet-v1.pdf)
