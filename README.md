@@ -107,6 +107,7 @@
 * [Free HTML templates](https://cruip.com/)
 * [Free illustrations](https://lukaszadam.com/illustrations)
 * [Free and paid 80s Fonts](https://onextrapixel.com/35-free-paid-80s-fonts/)
+* [Design awards / inspiration](https://www.awwwards.com/)
 
 ## Music
 
