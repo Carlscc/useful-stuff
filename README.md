@@ -53,6 +53,7 @@
 * [Reference for HTML Symbols, Entities and ASCII Character Codes](https://www.toptal.com/designers/htmlarrows/)
 * [Special character entity converter](http://www.evotech.net/articles/testjsentities.html)
 * [HTML closing tags checker](https://www.aliciaramirez.com/closing-tags-checker/)
+* [Hipster Ipsum](https://hipsum.co/)
 
 
 
@@ -108,6 +109,7 @@
 * [Free illustrations](https://lukaszadam.com/illustrations)
 * [Free and paid 80s Fonts](https://onextrapixel.com/35-free-paid-80s-fonts/)
 * [Design awards / inspiration](https://www.awwwards.com/)
+* [Favicon generator](https://www.favicon-generator.org/)
 
 ## Music
 
