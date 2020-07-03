@@ -110,6 +110,10 @@
 * [Free and paid 80s Fonts](https://onextrapixel.com/35-free-paid-80s-fonts/)
 * [Design awards / inspiration](https://www.awwwards.com/)
 * [Favicon generator](https://www.favicon-generator.org/)
+* [Pages Xyz](https://www.pages.xyz/)
+* [Nicely Done Club](https://nicelydone.club/)
+* [Httpster](https://httpster.net/2020/jun/)
+* [Design Vault](https://designvault.io/)
 
 ## Music
 
