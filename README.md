@@ -196,6 +196,7 @@
 * [Live Python Tutor](http://pythontutor.com/)
 * [Passing functions as arguments](https://treyhunner.com/2020/01/passing-functions-as-arguments/)
 * [Learn Python in one picture](http://coodict.github.io/python3-in-one-pic/)
+* [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
 
 ## Java
 
