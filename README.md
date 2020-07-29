@@ -114,6 +114,7 @@
 * [Nicely Done Club](https://nicelydone.club/)
 * [Httpster](https://httpster.net/2020/jun/)
 * [Design Vault](https://designvault.io/)
+* [Loading Animation Generator](https://loading.io/)
 
 ## Music
 
