@@ -73,6 +73,7 @@
 * [Tookapic](https://tookapic.com/images)
 * [Generative art - image placeholders](https://generative-placeholders.glitch.me/)
 * [Shotzr](https://www.shotzr.com/)
+* [Image placeholders](https://discover.twicpics.com/en/placeholder)
 
 ## Free Icons
 * [Font Awesome](https://fontawesome.com/)
