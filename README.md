@@ -25,6 +25,7 @@
 * [Common Git problems and solutions](https://github.com/brianamarie/10-git-problems)
 * [Git Stash](https://medium.freecodecamp.org/useful-tricks-you-might-not-know-about-git-stash-e8a9490f0a1a)
 * [Git hacks](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
+* [.gitignore files](https://www.toptal.com/developers/gitignore)
 
 ## Basic Terminal Commands
 * [UNIX commands](https://www.tjhsst.edu/~dhyatt/superap/unixcmd.html)
