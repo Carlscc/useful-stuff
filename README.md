@@ -275,5 +275,9 @@
 * [10 minute email for testing](https://10minutemail.com/)
 * [Test website speed](https://imagespeedtest.piio.co/)
 
+## Deployment
+
+* [DNS Checker](https://www.whatsmydns.net/)
+
 
 
