@@ -167,6 +167,7 @@
 * [Icon packs as styled components](https://styled-icons.js.org/)
 * [React visual metaphors](https://illustrated.dev/)
 * [React components library](https://bumbag.style/)
+* [React Native - Beginner Guide](https://medium.com/@gwen_faraday/converting-a-react-app-to-react-native-d7df17968fc6)
 
 ## Next.js
 
