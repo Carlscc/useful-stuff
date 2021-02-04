@@ -170,6 +170,7 @@
 * [React components library](https://bumbag.style/)
 * [React Native - Beginner Guide](https://medium.com/@gwen_faraday/converting-a-react-app-to-react-native-d7df17968fc6)
 * [React Form Multi-Step](https://www.npmjs.com/package/react-stepzilla)
+* [React Architecture - Best Practice](https://alexkondov.com/tao-of-react/)
 
 ## Next.js
 
