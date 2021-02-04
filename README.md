@@ -118,6 +118,7 @@
 * [Design Vault](https://designvault.io/)
 * [Loading Animation Generator](https://loading.io/)
 * [Avatar library](https://limitlessdesigns.io/avatar-illustrations/)
+* [Illustrations](https://www.vektors.pro/)
 
 ## Music
 
